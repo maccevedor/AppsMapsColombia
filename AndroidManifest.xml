@@ -35,7 +35,7 @@
         
         <meta-data
     		android:name="com.google.android.maps.v2.API_KEY"
-    		android:value="AIzaSyDO-4-XVwC2gH2uYsNztBlh_Ghh0gp9tt0"/>
+    		android:value="AIzaSyA-KnUzdjfi5I1o4cuhjj6AkgqjkcRcmew"/>
         
         <activity
             android:name="ca.sfu.cmpt276.bfraser.MainActivity"

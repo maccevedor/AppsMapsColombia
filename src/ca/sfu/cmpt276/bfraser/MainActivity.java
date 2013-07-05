@@ -13,8 +13,8 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends Activity {
-	private final LatLng LOCATION_BURNABY = new LatLng(49.27645, -122.917587);
-	private final LatLng LOCATION_SURRREY = new LatLng(49.187500, -122.849000);
+	private final LatLng LOCATION_BURNABY = new LatLng(7.09818,-73.118211);
+	private final LatLng LOCATION_SURRREY = new LatLng(7.119344,-73.112392);
 	
 	private GoogleMap map;
 
